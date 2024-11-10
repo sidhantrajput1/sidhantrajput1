@@ -30,7 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidhantrajput1&show_icons=true&locale=en&layout=compact" alt="sidhantrajput1" /></p>
 
-<img align="right" , alt="coding" width="400"    src="https://static2.bigstockphoto.com/9/1/4/large1500/419537617.jpg"/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidhantrajput1&show_icons=true&locale=en" alt="sidhantrajput1" /></p>
